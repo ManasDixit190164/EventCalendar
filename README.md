@@ -1,4 +1,4 @@
 # EventCalendar
 
 
-see damo:- https://manasdixit190164.github.io/EventCalendar/
+see demo:- https://manasdixit190164.github.io/EventCalendar/
